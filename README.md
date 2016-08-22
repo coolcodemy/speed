@@ -2,7 +2,7 @@
 
 ## Installation
 
-	composer require nasrulhazim/speed
+	composer require cleaniquecoders/speed
 
 ## Configuration
 
