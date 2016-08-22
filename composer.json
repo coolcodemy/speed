@@ -1,5 +1,5 @@
 {
-    "name": "nasrulhazim/speed",
+    "name": "cleaniquecoders/speed",
     "description": "Simple artisan command to speed up your application",
     "type": "package",
     "license": "MIT",
