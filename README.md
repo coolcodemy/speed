@@ -10,7 +10,8 @@ Open up `app/Console/Commands/Kernel.php` and add the following:
 
 ```php
 protected $commands = [
-    \CleaniqueCoders\Speed\Console\Commands\Speed::class
+    \CleaniqueCoders\Speed\Console\Commands\Speed::class,
+    \CleaniqueCoders\Speed\Console\Commands\Serve::class
 ];
 ```
 
